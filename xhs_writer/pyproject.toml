@@ -1,0 +1,18 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "xhs-writer"
+version = "0.1.0"
+description = "XHS Writer project"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openai",
+    "python-dotenv"
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+

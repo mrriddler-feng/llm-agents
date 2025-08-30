@@ -1,0 +1,19 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "expert-interview"
+version = "0.1.0"
+description = "Expert Interview project"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "livekit-agents[deepgram,openai,cartesia,silero,turn-detector]~=1.0",
+    "livekit-plugins-noise-cancellation~=0.2",
+    "python-dotenv"
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+
