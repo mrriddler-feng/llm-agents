@@ -5,9 +5,10 @@
 ## 样例
 
 输入：
-example简历文件。
+[简历文件](https://github.com/mrriddler-feng/llm-agents/blob/main/deep_resume/examples/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf)
 
 输出：
+![demo](https://github.com/mrriddler-feng/llm-agents/blob/main/deep_resume/examples/deep_resume_demo.png)
 
 ## 安装
 
