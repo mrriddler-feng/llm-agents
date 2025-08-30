@@ -6,7 +6,9 @@
 
 输入：
 > 主题：南昌土著推荐，美食全攻略 店名：老地方好味坊 推荐菜：亮亮水煮、蟹脚捞粉、麻辣藕片、招牌啤酒鸭 推荐理由：平价好吃不踩雷 地址：江西省南昌市中山路万寿宫历史文化街区
+
 输出：
+![demo](https://github.com/mrriddler-feng/llm-agents/blob/main/xhs_writer/examples/xhs_writer_demo.png)
 
 ## 安装
 

@@ -6,7 +6,9 @@
 
 输入：
 问题清单。
+
 输出：
+![demo](https://github.com/mrriddler-feng/llm-agents/blob/main/expert_interview/examples/expert_interview_demo.png)
 
 ## 安装
 
